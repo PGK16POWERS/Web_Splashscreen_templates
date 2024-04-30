@@ -1,0 +1,35 @@
+#main-frame {
+    height: 100%;
+    width: 100%;
+    padding: 2rem;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    font-family: var(--props);
+    color: orangered;
+    letter-spacing: 2px;
+    font-size: 2em;
+}
+
+/* SPLASH STYLES */
+
+#splash-bg {
+    position: fixed;
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    z-index: 99;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#splash-logo {
+    width: 110px;
+}
+
+
+
+/* SPLASH STYLES */

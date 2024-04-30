@@ -14,7 +14,8 @@ button {
 }
 
 :root {
-    --pops: "Prompt", sans-serif;
+    --pops: "Poppins", sans-serif;
+    --props: "Prompt", sans-serif;
     --nuns: "Nunito", sans-serif;
     --monts: "Montserrat", sans-serif;
 }
