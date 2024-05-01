@@ -20,3 +20,7 @@ button {
     --monts: "Montserrat", sans-serif;
 }
 
+body {
+    background-color: rgb(255, 240, 223);
+}
+
